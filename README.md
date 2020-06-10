@@ -1,12 +1,12 @@
 # shopee.co.id
 Tools Cek Stok Barang Gratis
 dan Alaram shopee<br/>
-cara menggunakan 
+cara menggunakan <br/>
 <br/>
 pkg install php<br/>
 pkg install mpv<br/>
 <br/>
-<br/>
+
 cara menjalankan <br/>
 php shopee.php<br/>
 <br/>
