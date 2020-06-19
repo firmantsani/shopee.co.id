@@ -15,6 +15,6 @@ php shopee.php<br/>
 apa yang baru<br/>
 custom notifikasi(pengingat)<br/>
 fix lagu dengan spasi/simbol<br/>
-memperbarui list barang
+memperbarui list barang<br/>
 
 
