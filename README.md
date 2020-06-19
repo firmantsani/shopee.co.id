@@ -5,7 +5,7 @@ cara menggunakan <br/>
 <br/>
 pkg install php<br/>
 pkg install mpv<br/>
-<br/>
+pkg install git<br/>
 
 cara menjalankan <br/>
 git clone https://github.com/firmantsani/shopee.co.id<br/>
